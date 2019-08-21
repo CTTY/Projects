@@ -1,2 +1,2 @@
 # Projects
-Art collection website Projects page
+#### Art collection website Projects page (For react pages deployment)
