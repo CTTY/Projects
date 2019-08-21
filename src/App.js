@@ -61,7 +61,7 @@ class App extends Component {
     this.loadCurrentUser();
   }
 
-  handleLogout(redirectTo="https://abbylululu.github.io/ArtCollectionWebsite/", notificationType="success", description="You're successfully logged out.") {
+  handleLogout(redirectTo="/", notificationType="success", description="You're successfully logged out.") {
     localStorage.removeItem(ACCESS_TOKEN);
 
     this.setState({
@@ -81,7 +81,7 @@ class App extends Component {
       description: "You're successfully logged in.",
     });
     this.loadCurrentUser();
-    this.props.history.push("https://abbylululu.github.io/Projects/#/DesignManager");
+    this.props.history.push("/DesignManager");
   }
 
   render(){
@@ -101,7 +101,7 @@ class App extends Component {
           <Route exact path="/Email" component={Email} />
           <Route path="/login" 
                  render={(props) => <Login onLogin={this.handleLogin} {...props} />}></Route>
-          <PrivateRoute authenticated={this.state.isAuthenticated} path="https://abbylululu.github.io/Projects/#/DesignManager" component={DesignManager} handleLogout={this.handleLogout}></PrivateRoute>
+          <PrivateRoute authenticated={this.state.isAuthenticated} path="/DesignManager" component={DesignManager} handleLogout={this.handleLogout}></PrivateRoute>
       </Switch>
         <Footer />
         {/* <script src="./js/jquery.min.js"></script>
