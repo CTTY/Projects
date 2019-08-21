@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Projects/static/css/main.fe47a9e2.chunk.css",
+    "main.js": "/Projects/static/js/main.95cabd53.chunk.js",
+    "main.js.map": "/Projects/static/js/main.95cabd53.chunk.js.map",
+    "runtime~main.js": "/Projects/static/js/runtime~main.ca3931de.js",
+    "runtime~main.js.map": "/Projects/static/js/runtime~main.ca3931de.js.map",
+    "static/css/2.a471784d.chunk.css": "/Projects/static/css/2.a471784d.chunk.css",
+    "static/js/2.e57d9c40.chunk.js": "/Projects/static/js/2.e57d9c40.chunk.js",
+    "static/js/2.e57d9c40.chunk.js.map": "/Projects/static/js/2.e57d9c40.chunk.js.map",
+    "index.html": "/Projects/index.html",
+    "precache-manifest.2fc31f844ad75fb0c2de5ff815fc494b.js": "/Projects/precache-manifest.2fc31f844ad75fb0c2de5ff815fc494b.js",
+    "service-worker.js": "/Projects/service-worker.js",
+    "static/css/2.a471784d.chunk.css.map": "/Projects/static/css/2.a471784d.chunk.css.map",
+    "static/css/main.fe47a9e2.chunk.css.map": "/Projects/static/css/main.fe47a9e2.chunk.css.map",
+    "static/media/style.css": "/Projects/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/react-bootstrap-carousel.css": "/Projects/static/media/react-bootstrap-carousel.f7448c04.ttf"
+  }
+}

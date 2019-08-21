@@ -46,8 +46,8 @@ class Header extends Component {
                                 <div className="classynav">
                                     <ul id="nav">
                                     {/* <li><Link to="/index" replace> Home</Link></li> */}
-                                    <li><a href="https://github.com/CTTY/art-gallery">Extra</a></li>
-                                    <li><a href="../index.html">Home</a></li>
+                                    {/* <li><a href="https://github.com/CTTY/art-gallery">Extra</a></li> */}
+                                    <li><a href="https://ctty.github.io/ArtCollectionWebsite/">Home</a></li>
                                     <li><a href="#">Pages</a>
                                         <ul className="dropdown">
                                         <li><a href="../index.html">- Home</a></li>
