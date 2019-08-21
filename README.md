@@ -1,2 +1,2 @@
-# Projects
-#### Art collection website Projects page (For react pages deployment)
+# art-gallery
+The gallery page for ArtCollectionWebsite, we are using React here!
