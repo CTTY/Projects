@@ -92,21 +92,21 @@ class Carousel extends React.PureComponent {
             </div> */}
             
             <div className="carousel-item active">
-                <img src="../img/bg-img/1.jpg" className="d-block w-100" alt="..." />
+                <img src="https://i.kinja-img.com/gawker-media/image/upload/s--u7Bp8hZt--/c_scale,f_auto,fl_progressive,q_80,w_800/drnzblgclnsjvrbp7r6e.png" className="d-block w-100" alt="..." />
                 <div className="carousel-caption d-none d-md-block">
                     <h5>First slide label</h5>
                     <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
                 </div>
             </div>
             <div className="carousel-item active">
-                <img src="../img/bg-img/2.jpg" className="d-block w-100" alt="..." />
+                <img src="https://www.geek.com/wp-content/uploads/2016/05/rickandmorty-2-625x350.jpg" className="d-block w-100" alt="..." />
                 <div className="carousel-caption d-none d-md-block">
                     <h5>First slide label</h5>
                     <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
                 </div>
             </div>
             <div className="carousel-item active">
-                <img src="../img/bg-img/19.jpg" className="d-block w-100" alt="..." />
+                <img src="https://pixel.nymag.com/imgs/daily/vulture/2017/09/22/22-rick-and-morty.w700.h700.jpg" className="d-block w-100" alt="..." />
                 <div className="carousel-caption d-none d-md-block">
                     <h5>First slide label</h5>
                     <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
