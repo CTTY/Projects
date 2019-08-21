@@ -43,7 +43,7 @@ class Header extends Component {
                 <li><a href="https://abbylululu.github.io/Projects/#/Login">Log In</a></li>,
                 <li><a href="https://abbylululu.github.io/Projects/#/DesignManager">Design Manager</a></li>,
                 <li><a href="https://abbylululu.github.io/Projects/#/Email">Email</a></li>,
-                <li><Nav.Link href="/" onSelect={this.handleMenuClick}>Log out</Nav.Link></li>,
+                <li><Nav.Link href="https://abbylululu.github.io/ArtCollectionWebsite/" onSelect={this.handleMenuClick}>Log out</Nav.Link></li>,
             ]
         } else {
             menuItems=[
