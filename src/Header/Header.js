@@ -45,28 +45,28 @@ class Header extends Component {
                                 {/* navbar */}
                                 <div className="classynav">
                                     <ul id="nav">
-                                    {/* <li><Link to="/index" replace> Home</Link></li> */}
-                                    {/* <li><a href="https://github.com/CTTY/art-gallery">Extra</a></li> */}
-                                    <li><a href="https://ctty.github.io/ArtCollectionWebsite/">Home</a></li>
-                                    <li><a href="#">Pages</a>
-                                        <ul className="dropdown">
-                                        <li><a href="../index.html">- Home</a></li>
-                                        <li><a href="/">- Projects</a></li>
-                                        <li><a href="../designer.html">- Designer</a></li>
-                                        <li><a href="../developers.html">- Developers</a></li>
-                                        <li><a href="/Login">- Log in</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="/"> Projects</a></li>
-                                    <li><a href="#">About Us</a>
-                                        <ul className="dropdown">
-                                        <li><a href="./designer.html">- Designer</a></li>
-                                        <li><a href="./developers.html">- Developers</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="/Login"> Log in</a></li>
-                                    <li><a href="/DesignManager"> Design Manager</a></li>
-                                    <li><a href="/Email"> Email</a></li>
+                                        <li><a href="https://abbylululu.github.io/ArtCollectionWebsite/">Home</a></li>
+                                        <li><a href="#">Pages</a>
+                                            <ul className="dropdown">
+                                            <li><a href="https://abbylululu.github.io/ArtCollectionWebsite/">- Home</a></li>
+                                            <li><a href="https://abbylululu.github.io/Projects/#/">- Projects</a></li>
+                                            <li><a href="https://abbylululu.github.io/ArtCollectionWebsite/designer.html">- Designer</a></li>
+                                            <li><a href="https://abbylululu.github.io/ArtCollectionWebsite/developers.html">- Developers</a></li>
+                                            <li><a href="https://abbylululu.github.io/Projects/#/login">- Log In</a></li>
+                                            <li><a href="https://abbylululu.github.io/Projects/#/DesignManager">Design Manager</a></li>
+                                            <li><a href="https://abbylululu.github.io/Projects/#/Email">Email</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://abbylululu.github.io/Projects/#/"> Projects</a></li>
+                                        <li><a href="#">About Us</a>
+                                            <ul className="dropdown">
+                                            <li><a href="https://abbylululu.github.io/ArtCollectionWebsite/designer.html">- Designer</a></li>
+                                            <li><a href="https://abbylululu.github.io/ArtCollectionWebsite/developers.html">- Developers</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://abbylululu.github.io/Projects/#/login">Log In</a></li>
+                                        <li><a href="https://abbylululu.github.io/Projects/#/DesignManager">Design Manager</a></li>
+                                        <li><a href="https://abbylululu.github.io/Projects/#/Email">Email</a></li>
                                     </ul>
                                 </div>
                             </div>
